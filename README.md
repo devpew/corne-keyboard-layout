@@ -1,6 +1,6 @@
 # corne-keyboard-layout
 
-![corne keyboard](https://github.com/devpew/corne-keyboard-layout/blob/main/corne.jpg)
+![corne keyboard](https://github.com/devpew/corne-keyboard-layout/blob/main/cor.jpg)
 
 ### Layout 0
 
