@@ -1,4 +1,6 @@
-# corne-keyboard-layout
+# Corne-keyboard-layout
+This is layout for wired version of my corne keyboard (QMK and VIA)
+If you need wireless version, you should go here - https://github.com/devpew/zmk-config
 
 ![corne keyboard](https://github.com/devpew/corne-keyboard-layout/blob/main/cor.jpg)
 
