@@ -16,8 +16,8 @@
 #define FLR 3
 #define ADJ 4
 
-&lt { quick_tap_ms = <220>; };
-&mt { quick_tap_ms = <220>; };
+&lt { quick_tap_ms = <219>; };
+&mt { quick_tap_ms = <219>; };
 
 / {
     behaviors {
